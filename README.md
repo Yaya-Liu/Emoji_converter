@@ -7,3 +7,6 @@ This project scrapped 1809 most common used emojis from the following link, and 
 https://unicode.org/emoji/charts/full-emoji-list.html 
 
 
+
+
+
